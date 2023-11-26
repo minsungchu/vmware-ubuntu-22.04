@@ -1,0 +1,2 @@
+*.vmdk filter=lfs diff=lfs merge=lfs -text
+autoinst.iso filter=lfs diff=lfs merge=lfs -text
